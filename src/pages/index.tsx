@@ -4,9 +4,9 @@ import Head from 'next/head'
 export default function Home() {
   return (
     <>
-      <Seo title="Codeur Monkeys" description="Descrption.." />
-      <h1>hello word</h1>
-    </>
+      <Seo title="Codeur Fred" description="Descrption.." />
+              <h1>Codeurs Monkeys App</h1>  
+  </>
 
   );
 }
